@@ -1,4 +1,7 @@
 Name: 
- Favorite Movie: 
- Favorite Food: 
- Favorite Candy:
+ Favorite Movie: Italian Job
+ Favorite Food: Free
+ Favorite Candy: Those Gummy worms at Cuny Law
+ Zodiac Sign: Gemini
+ Birthday: May 25th 2016
+ 
