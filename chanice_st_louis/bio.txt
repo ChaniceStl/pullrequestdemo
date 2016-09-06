@@ -3,5 +3,6 @@ Name:
  Favorite Food: Free
  Favorite Candy: Those Gummy worms at Cuny Law
  Zodiac Sign: Gemini
- Birthday: May 25th 2016
+ Birthday: May 25th 1992
+ Allergens: Strawberries and Fakes
  
